@@ -8,7 +8,7 @@
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Quashean Armstrong",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
